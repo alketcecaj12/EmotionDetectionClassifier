@@ -1,0 +1,4 @@
+0 Emotionless
+1 Happy
+2 Amazed
+3 Angry
